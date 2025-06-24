@@ -1,32 +1,32 @@
 [
   {
-    "timestamp": 5,
-    "rating": "酷卡1",
-    "nickname": "好用報幹"
+    "rating": 5,
+    "nickname": "酷卡1",
+    "comment": "好用報幹"
   },
   {
-    "timestamp": 4,
-    "rating": "寶鼻2",
-    "nickname": "報幹好用"
+    "rating": 4,
+    "nickname": "寶鼻2",
+    "comment": "報幹好用"
   },
   {
-    "timestamp": 3,
-    "rating": "小寶鼻",
-    "nickname": "我不知道買了甚麼東西"
+    "rating": 3,
+    "nickname": "小寶鼻",
+    "comment": "我不知道買了甚麼東西"
   },
   {
-    "timestamp": 5,
-    "rating": "琳達吃屎",
-    "nickname": "吃屎最高"
+    "rating": 5,
+    "nickname": "琳達吃屎",
+    "comment": "吃屎最高"
   },
   {
-    "timestamp": 5,
-    "rating": "寶鼻胖胖",
-    "nickname": "槍聲小廢"
+    "rating": 5,
+    "nickname": "寶鼻胖胖",
+    "comment": "槍聲小廢"
   },
   {
-    "timestamp": 5,
-    "rating": "貝瑞塔潔",
-    "nickname": "小潔有點胖"
+    "rating": 5,
+    "nickname": "貝瑞塔潔",
+    "comment": "小潔有點胖"
   }
 ]
