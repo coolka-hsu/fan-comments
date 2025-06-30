@@ -3,37 +3,49 @@
     "rating": 5,
     "nickname": "酷卡1",
     "comment": "好用報幹",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 4,
     "nickname": "寶鼻2",
     "comment": "報幹好用",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 3,
     "nickname": "小寶鼻",
     "comment": "我不知道買了甚麼東西",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 5,
     "nickname": "琳達吃屎",
     "comment": "吃屎最高",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 5,
     "nickname": "貝瑞塔潔",
     "comment": "小潔有點胖",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 1,
     "nickname": "貝爾塔潔",
     "comment": "貝爾塔潔胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖胖",
-    "tags": []
+    "tags": [
+      "pet"
+    ]
   },
   {
     "rating": 5,
@@ -64,6 +76,7 @@
     "nickname": "送禮大使",
     "comment": "我拿來送禮給長官讓他洗他的老車破許911之後，就說不會發霉了，因此升官到總經理超讚的",
     "tags": [
+      "pet",
       "gift"
     ]
   },
