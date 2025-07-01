@@ -3,17 +3,13 @@
     "rating": 5,
     "nickname": "酷卡1",
     "comment": "好用報幹",
-    "tags": [
-      "good"
-    ]
+    "tags": []
   },
   {
     "rating": 4,
     "nickname": "寶鼻2",
     "comment": "報幹好用",
-    "tags": [
-      "good"
-    ]
+    "tags": []
   },
   {
     "rating": 3,
@@ -25,9 +21,7 @@
     "rating": 5,
     "nickname": "琳達吃屎",
     "comment": "吃屎最高",
-    "tags": [
-      "good"
-    ]
+    "tags": []
   },
   {
     "rating": 5,
