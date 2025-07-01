@@ -6,5 +6,7 @@
   "fragrance": "香味",
   "natural": "天然安心",
   "good": "好評最讚",
-  "fat": "胖仔好評"
+  "fat": "胖仔好評",
+  "rating_high": "星等由高到低",
+  "rating_low": "星等由低到高"
 }
